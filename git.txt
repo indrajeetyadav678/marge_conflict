@@ -1,5 +1,5 @@
 git init     # used for create  repository
 git status   # ---> use for check current status of repository
-git log
+git log       # used for checking commit on this repository
 history        # for checking history of using command
 touch new.txt  #---> for creating file by power terminal or bash teminal
